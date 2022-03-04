@@ -15,27 +15,39 @@
 </ul>
 
 ### <strong>Connect with me:</strong>
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646353669/svgviewer-output_6_n0tjjz.svg" width="36px" styles="float: left">][telegram]
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354531/svgviewer-output_8_1_1_fxpuoa.svg" width="36px" styles="float: left">][instagram]
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354199/svgviewer-output_7_1_iojifg.svg" width="35px" styles="float: left">][vk]
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354666/svgviewer-output_9_1_eh2qit.png" width="36px" styles="float: left">][linkedin]
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646353669/svgviewer-output_6_n0tjjz.svg" width="36px" styles="">][telegram]
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354531/svgviewer-output_8_1_1_fxpuoa.svg" width="36px" styles="">][instagram]
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354199/svgviewer-output_7_1_iojifg.svg" width="35px" styles="">][vk]
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354666/svgviewer-output_9_1_eh2qit.png" width="36px" styles="">][linkedin]
 [<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354812/Group_4_bh8fkb.png" width="36px"/>][website]
 [<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354926/Group_4_1_zhphle.png" width="36px" style="margin-left:-2px"/>][hh]
 <br />
 
 ### <strong>Languages and Tools:</strong>
 
-<img align="left" alt="React" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646351806/svgviewer-output_1_ud7uof.svg" style="margin-right:7px; float: left"/>
-<img align="left" alt="NEXT" width="60px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646351639/svgviewer-output_1_hrwlfd.svg"
-style="margin-right:7px; float: left"/>
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin-right:7px; float: left"/>
-<img align="left" alt="C#" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352172/svgviewer-output_3_olfo08.svg"
-style="margin-right:7px; float: left"/>
-<img align="left" alt="DOCKER" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352292/svgviewer-output_4_zmb7iu.svg"
-style="margin-right:7px; float: left"/>
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right:12px; float: left"/>
-<img align="left" alt="Visual Studio Code" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352755/rider_logo_300x300_eg3lfz.png" style="margin-right:7px; float: left"/>
-<img align="left" alt="JavaScript" width="26px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352537/svgviewer-output_5_qhvlpt.svg" />
+<ul style="list-style-image: url('https://res.cloudinary.com/dmj1kropp/image/upload/v1646356077/Rectangle_35_zgadyp.png');
+background: url('https://res.cloudinary.com/dmj1kropp/image/upload/v1646356704/Mask_group_z3bwz4.svg');
+padding: 10px">
+    <li>
+        <img align="left" alt="React" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646351806/svgviewer-output_1_ud7uof.svg" style="margin-right:7px; "/>
+        <img align="left" alt="NEXT" width="60px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646351639/svgviewer-output_1_hrwlfd.svg"
+        style="margin-right:7px; "/>
+        <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin-right:7px; "/>
+    </li>
+    <br>
+    <li>
+        <img align="left" alt="C#" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352172/svgviewer-output_3_olfo08.svg"
+        style="margin-right:7px; "/>
+        <img align="left" alt="DOCKER" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352292/svgviewer-output_4_zmb7iu.svg"
+        style="margin-right:7px; "/>
+        <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right:12px; "/>
+    </li>
+    <br>
+    <li>
+        <img align="left" alt="Visual Studio Code" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352755/rider_logo_300x300_eg3lfz.png" style="margin-right:7px; "/>
+        <img align="left" alt="JavaScript" width="26px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352537/svgviewer-output_5_qhvlpt.svg" />
+    </li>
+</ul>
 <br><br>
 
 #
