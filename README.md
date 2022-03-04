@@ -30,7 +30,7 @@
 style="margin-right:7px; float: left"/>
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin-right:7px; float: left"/>
 <img align="left" alt="C#" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352172/svgviewer-output_3_olfo08.svg"
-style="margin-right:7px; float: left"/><br><br>
+style="margin-right:7px; float: left"/>
 <img align="left" alt="DOCKER" width="30px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352292/svgviewer-output_4_zmb7iu.svg"
 style="margin-right:7px; float: left"/>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" style="margin-right:12px; float: left"/>
