@@ -1,22 +1,7 @@
-
-<!-- 
-
-<table style="border: none">
-<th style="padding-top: 20px; border: none" >
-
 ![](https://res.cloudinary.com/dmj1kropp/image/upload/c_scale,w_90/v1684664730/emojibest_com_AnimatedSticker_aeou1k.gif)
-    
-</th>
 
-<th style="border: none" >
-    <ol style="list-style:none ">
-        <h1 style="border: none">Hi there, I'm Maxim</h1>
-        <h2 style="border: none">I'm a FullStack Developer</h2>
-    </ol>
-<th>
-
-</table>
-
+# Hi there, I'm Maxim
+### I'm a FullStack Developer.
 
 <br>
 
@@ -32,10 +17,7 @@
 <br>
 
 ### <strong>Languages and Tools:</strong>
-<ul style="list-style-image: url('https://res.cloudinary.com/dmj1kropp/image/upload/v1646356077/Rectangle_35_zgadyp.png');
-background: url('https://res.cloudinary.com/dmj1kropp/image/upload/v1646356704/Mask_group_z3bwz4.svg');
-background-size: cover;
-padding: 10px">
+<ul>
 <li>
     <img align="left" alt="TS" width="42px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1684667374/Tools/icons8-typescript-144_krxkub.svg" style="margin-right:7px; "/>
     <img align="left" alt="JS" width="42px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1684667472/Tools/icons8-js-144_hxmxg7.png"
@@ -59,7 +41,7 @@ padding: 10px">
     <img align="left" alt="NEST" width="40px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1684670134/Tools/Microsoft_.NET_logo.svg_m0x5nr.png"
     style="margin-right:10px; "/>
 </li>
-<br>
+<br><br>
 
 <li style="
     list-style: disc;
@@ -68,6 +50,8 @@ padding: 10px">
     <b>Also used in the work:</b>
 </li>
 
+<br>
+    
 <li>
     <img align="left" alt="C++" width="43px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1684668422/Tools/icons8-c_w2vxrs.svg"
     style="margin-right:7px; "/>
@@ -106,4 +90,4 @@ padding: 10px">
 [linkedin]: https://www.linkedin.com/in/maxim-krupin-573461233/
 [instagram]: https://www.instagram.com/maa_xim_/
 [vk]: https://vk.com/porkery
-[hh]: https://hh.ru/resume/af1ff572ff036fd6a10039ed1f7134696d6856 -->
+[hh]: https://hh.ru/resume/af1ff572ff036fd6a10039ed1f7134696d6856 
