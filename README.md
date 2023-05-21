@@ -1,5 +1,5 @@
 
-
+<!-- 
 
 <table style="border: none">
 <th style="padding-top: 20px; border: none" >
@@ -106,4 +106,4 @@ padding: 10px">
 [linkedin]: https://www.linkedin.com/in/maxim-krupin-573461233/
 [instagram]: https://www.instagram.com/maa_xim_/
 [vk]: https://vk.com/porkery
-[hh]: https://hh.ru/resume/af1ff572ff036fd6a10039ed1f7134696d6856
+[hh]: https://hh.ru/resume/af1ff572ff036fd6a10039ed1f7134696d6856 -->
