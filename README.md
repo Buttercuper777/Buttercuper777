@@ -9,14 +9,10 @@
 </th>
 
 <th style="border: none" >
-    <summary style="margin: -20px 0px 0px 0px; list-style: none;">
-        <h1 style="list-style: none; border: none; margin-left: -2px; line-height: 1.1">
-            Hi there, I'm Maxim
-        </h1>
-        <h2 style="opacity: 0.7; margin-top: -10px">
-            I'm a <span style="font-weight: 700">FullStack</span> Developer
-        </h2>
-    </summary>
+    <ol style="list-style:none ">
+        <h1 style="border: none">Hi there, I'm Maxim</h1>
+        <h2 style="border: none">I'm a FullStack Developer</h2>
+    </ol>
 <th>
 
 </table>
