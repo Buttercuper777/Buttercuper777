@@ -1,21 +1,27 @@
-<br>
 
 
-<div style="display: flex; max-width: 350px">
+
+<table style="border: none">
+<th style="padding-top: 20px; border: none" >
 
 ![](https://res.cloudinary.com/dmj1kropp/image/upload/c_scale,w_90/v1684664730/emojibest_com_AnimatedSticker_aeou1k.gif)
+    
+</th>
 
+<th style="border: none" >
+    <summary style="margin: -20px 0px 0px 0px; list-style: none;">
+        <h1 style="list-style: none; border: none; margin-left: -2px; line-height: 1.1">
+            Hi there, I'm Maxim
+        </h1>
+        <br>
+        <h2 style="opacity: 0.7; margin-top: -10px">
+            I'm a <span style="font-weight: 700">FullStack</span> Developer
+        </h2>
+    </summary>
+<th>
 
-<summary style="margin: -20px 0px 0px 20px; list-style: none;">
-    <h1 style="border: none; margin-left: -2px; line-height: 1.1">
-        Hi there, I'm <span style="font-weight: 700">Maxim</span>
-    </h1>
-    <br>
-    <h2 style="opacity: 0.7; margin-top: -5px">
-        I'm a <span style="font-weight: 700">FullStack</span> Developer
-    </h2>
-</summary>
-</div>
+</table>
+
 
 <br>
 
