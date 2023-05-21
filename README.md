@@ -1,30 +1,32 @@
-### Hi there 👋, I'm Maxim
-\
-![](https://komarev.com/ghpvc/?username=buttercuper777&color=dc143c)
+<br>
+<div style="
+    display: flex;
+">
 
-## I'm a FullStack Developer.
+![](https://res.cloudinary.com/dmj1kropp/image/upload/c_scale,w_90/v1684664730/emojibest_com_AnimatedSticker_aeou1k.gif)
+
+<summary style="margin: 12px 0px 0px 15px">
+    <h1 style="border: none; margin: 0px">
+        Hi there, I'm Maxim
+    </h1>
+    <h2 style="opacity: 0.85; margin-top: -7px">
+        I'm a FullStack Developer
+    </h2>
+</summary>
+
+</div>
+
+## 
  >🌒 <strong>I'll finish now and go to sleep...</strong>
  #
-<ul>
-    <li>💪 I like to write code</li>
-    <li>👩‍💻  I am constantly learning new things</li>
-    <li><img src="https://img.icons8.com/plasticine/452/russian-federation.png" height=20px alt="Ru" styles="margin: 10px"> 
-    I want to move to another country</li>
-    <li>🕖Looking for time to bring my ideas to life</li>
-    <li>🥁 If you are my neighbor be ready<br>for music and drums :)</li>
-</ul>
 
-### <strong>Connect with me:</strong>
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646353669/svgviewer-output_6_n0tjjz.svg" width="36px" styles="">][telegram]
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354531/svgviewer-output_8_1_1_fxpuoa.svg" width="36px" styles="">][instagram]
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354199/svgviewer-output_7_1_iojifg.svg" width="35px" styles="">][vk]
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354666/svgviewer-output_9_1_eh2qit.png" width="36px" styles="">][linkedin]
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354812/Group_4_bh8fkb.png" width="36px"/>][website]
-[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354926/Group_4_1_zhphle.png" width="36px" style="margin-left:-2px"/>][hh]
-<br />
+<ul>
+    <li>🕖Looking for time to bring my ideas to life</li>
+    <li>👩‍💻 Constantly learning new things</li>
+</ul>
+<br>
 
 ### <strong>Languages and Tools:</strong>
-
 <ul style="list-style-image: url('https://res.cloudinary.com/dmj1kropp/image/upload/v1646356077/Rectangle_35_zgadyp.png');
 background: url('https://res.cloudinary.com/dmj1kropp/image/upload/v1646356704/Mask_group_z3bwz4.svg');
 padding: 10px">
@@ -48,7 +50,20 @@ padding: 10px">
         <img align="left" alt="JavaScript" width="26px" src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646352537/svgviewer-output_5_qhvlpt.svg" />
     </li>
 </ul>
-<br><br>
+<br>
+
+### <strong>Connect with me:</strong>
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646353669/svgviewer-output_6_n0tjjz.svg" width="36px" styles="">][telegram]
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354531/svgviewer-output_8_1_1_fxpuoa.svg" width="36px" styles="">][instagram]
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354199/svgviewer-output_7_1_iojifg.svg" width="35px" styles="">][vk]
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354666/svgviewer-output_9_1_eh2qit.png" width="36px" styles="">][linkedin]
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354812/Group_4_bh8fkb.png" width="36px"/>][website]
+[<img src="https://res.cloudinary.com/dmj1kropp/image/upload/v1646354926/Group_4_1_zhphle.png" width="36px" style="margin-left:-2px"/>][hh]
+
+
+\
+![](https://komarev.com/ghpvc/?username=buttercuper777&color=dc143c)
+
 
 #
 <details>
