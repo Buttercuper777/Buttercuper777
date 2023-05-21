@@ -13,7 +13,6 @@
         <h1 style="list-style: none; border: none; margin-left: -2px; line-height: 1.1">
             Hi there, I'm Maxim
         </h1>
-        <br>
         <h2 style="opacity: 0.7; margin-top: -10px">
             I'm a <span style="font-weight: 700">FullStack</span> Developer
         </h2>
