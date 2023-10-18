@@ -1,23 +1,23 @@
-![](https://res.cloudinary.com/dmj1kropp/image/upload/c_scale,w_90/v1684664730/emojibest_com_AnimatedSticker_aeou1k.gif)
+<h1 align="left" id="macropower-title">
+  🐊 Hello! I'm Max
+</h1>
 
-<h1 align="left" id="macropower-title">Hello there! I'm Maxim</h1>
 <h3 align="left">I do SW/DevOps Engineering things</h3>
-
 <p align="left">
   <a href="https://github.com/MacroPower/MacroPower">
     <img src="https://komarev.com/ghpvc/?username=buttercuper777&color=7045F0" alt="page views" />
   </a>
-
 </p>
 
+
 <a href="#macropower-title">
-  <img src="https://raw.githubusercontent.com/Buttercuper777/github-stats-transparent/output/generated/overview.svg" alt="Buttercuper777" align="right" />
+  <img src="https://res.cloudinary.com/dmj1kropp/image/upload/c_scale,w_200/v1684664730/emojibest_com_AnimatedSticker_aeou1k.gif" alt="Maxim's Image" width="120" alt="macropower" align="right" />
 </a>
 
 - 🌒 Looking for time to bring my ideas to life
 - 👨🏻‍💻 Constantly learning new things
 - 📷 Subscribe to **[Instagram]**. I try to make nice
-- 📟 &nbsp;Connect with me on **[LinkedIn]**
+- 📟 Connect with me on **[LinkedIn]**
 
 <br>
 
