@@ -17,8 +17,8 @@
 - 🧠 Strong experience with **Next.js** and **NestJS**
 - 🌒 Looking for time to bring my ideas to life
 - 👨🏻‍💻 Constantly learning and shipping
-- 📷 Subscribe to **[Instagram]**
-- 📟 Connect with me on **[LinkedIn]**
+- 📷 Subscribe to **[Instagram](https://www.instagram.com/maa_xim_)**
+- 📟 Connect with me on **[LinkedIn](https://www.linkedin.com/in/buttercuper/)**
 
 <br>
 
